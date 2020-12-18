@@ -746,9 +746,6 @@ PRODUCT_PACKAGES += \
     WfdService \
     CneApp \
     TimeService \
-    QtiTelephonyService \
-    datastatusnotification \
-    qcrilmsgtunnel \
     WfdCommon
 
 vintf_fragments += \
