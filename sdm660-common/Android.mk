@@ -4,10 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-<<<<<<< HEAD
 ifneq ($(filter evert,$(TARGET_DEVICE)),)
-=======
-ifneq ($(filter beckham chef evert lake payton,$(TARGET_DEVICE)),)
->>>>>>> 089f700... sdm660-family: Switch to standalone extract utils
 
 endif
